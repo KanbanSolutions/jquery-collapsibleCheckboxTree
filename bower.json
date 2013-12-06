@@ -1,0 +1,24 @@
+{
+  "name": "jquery-collapsibleCheckboxTree",
+  "version": "1.0.1",
+  "homepage": "https://github.com/KanbanSolutions/jquery-collapsibleCheckboxTree",
+  "authors": [
+    "Lewis Jenkins"
+  ],
+  "description": "Collapsible Checkbox Tree jQuery Plugin",
+  "main": "./jquery.collapsibleCheckboxTree.js",
+  "keywords": [
+    "tree",
+    "accordian",
+    "expand",
+    "collapse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
